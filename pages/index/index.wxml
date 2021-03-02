@@ -2,3 +2,5 @@
 <view wx:else>请升级微信版本</view>
 
 <image src="https://easy-wechat.gign.xyz/qrcode"></image>
+
+<button bindtap="check">检查 session key</button>
